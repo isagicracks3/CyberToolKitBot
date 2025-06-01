@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: cybertoolkitbot
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python bot.py
+    envVars:
+      - key: BOT_TOKEN
+        value: 7934454241:AAEqtke_iXrU5N-AveoOl0NlK0YIQJgbrz8  XrU5N-AveoOl0NlK0YIQJgbrz8xiXrU5N-AveoOl0NlK0YIQJgbrz8
