@@ -17,10 +17,10 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Bot configuration
-TOKEN = "7934454241:AAEqtke_iXrU5N-AveoOl0NlK0YIQJgbrz8"
-UPI_ID = "ks7302964@okicici"
+TOKEN = "8158607310:AAHqSKzNAaixc199vyF5Kiuvl6-1xBpn7A4"
+UPI_ID = "subhammandloi1999@ibl"
 START_TIME = datetime.now(pytz.timezone('Asia/Kolkata'))
-ADMIN_ID = 7290606783  # Your admin ID
+ADMIN_ID = 7098912960  # Your admin ID
 
 # Database simulation (in a real bot, use a proper database)
 user_db = set()
